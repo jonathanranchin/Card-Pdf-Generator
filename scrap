@@ -1,0 +1,16 @@
+{
+  "name": "card-pdf-generator",
+  "version": "1.0.0",
+  "main": "src/main/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^32.1.2",
+    "pdf-lib": "^1.17.1"
+  }
+}
